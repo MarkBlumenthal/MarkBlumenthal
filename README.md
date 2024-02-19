@@ -1,7 +1,6 @@
 Hi There, Mark Blumenthal here!
 <a href="URL_REDIRECT" target="blank">
-<img align="center" src="![image](https://github.com/MarkBlumenthal/MarkBlumenthal/assets/145574315/a3112be4-259d-4110-bbcf-2c42e0895568)
-" height="100" />
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding&psig=AOvVaw3Q6NJ89kqrzKreX-Wg2yfF&ust=1708425123558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7nNqZt4QDFQAAAAAdAAAAABAE" height="100" />
 </a>
 
 
