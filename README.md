@@ -1,6 +1,6 @@
 Hi There, Mark Blumenthal here!
 <a href="URL_REDIRECT" target="blank">
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding&psig=AOvVaw3Q6NJ89kqrzKreX-Wg2yfF&ust=1708425123558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7nNqZt4QDFQAAAAAdAAAAABAE" height="100" />
+<img align="center" src="https://img.freepik.com/free-vector/matrix-style-binary-code-digital-falling-numbers-blue-background_1017-37387.jpg?w=740&t=st=1708338997~exp=1708339597~hmac=f7f2b2e3ab823c2a6d588393a99b59effeeb87d4870b70b5a622d967ff94011a" height="100" />
 </a>
 
 
