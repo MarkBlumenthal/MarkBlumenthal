@@ -4,7 +4,7 @@
 
 Always looking to advance my career as a Full-Stack Developer
 
-Skills: Python / REACT / Javascript / HTML / CSS/ Typescript / Node.JS / Bootstrap / Redux / PSQL / Postman / Node-Red / Vue.js
+Skills: Python / REACT / Javascript / HTML / CSS/ Typescript / Node.JS / Bootstrap / Redux / PSQL / Postman / Node-Red / Vue.js / AWS / MySql
 
 - 📫 How to reach me: markblumenthal@live.com 
 
