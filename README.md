@@ -2,7 +2,7 @@
 #### Full-Stack Web Developer
 
 
-Always looking to advance my career as a Full-Stack Developer
+Always looking to advance my career as a Full-Stack Developer - https://markblumenthal.github.io/Portfolio/
 
 Skills: Python / REACT / Javascript / HTML / CSS/ Typescript / Node.JS / Bootstrap / Redux / PSQL / Postman / Node-Red / Vue.js / AWS / MySql
 
