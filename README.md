@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Mark Blumenthal
 #### Full-Stack Web Developer
-![Full-Stack Web Developer](https://raw.githubusercontent.com/MarkBlumenthal/MarkBlumenthal/main/assets/fullstack.webp)
-
 
 
 Always looking to advance my career as a Full-Stack Developer
