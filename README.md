@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Mark Blumenthal
 #### Full-Stack Web Developer
-![Full-Stack Web Developer](https://files.oaiusercontent.com/file-JNr8W3Q7AQKvsUwvJGCXcdlV?se=2024-05-15T11%3A02%3A46Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9de19a0c-e6c3-4452-b8e6-cc3eaf876e0e.webp&sig=fpdVPhnx4Tv0RAR0WOPfHzYCLnbiIEjvQ/iZgZ%2BwEvw%3D)
+![Full-Stack Web Developer](./assets/fullstack.webp)
+
 
 Always looking to advance my career as a Full-Stack Developer
 
